@@ -51,7 +51,7 @@ Berpengalaman dalam merancang wireframe & prototype aplikasi sebagai Asisten Dos
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
 **Cyber Security**
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nm ap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-000000?style=flat-square&logo=python&logoColor=white)
 ![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=flat-square&logo=python&logoColor=white)
 
