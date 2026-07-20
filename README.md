@@ -48,18 +48,34 @@ Berpengalaman dalam merancang wireframe & prototype aplikasi sebagai Asisten Dos
 **AI Agent & Automation**
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=obsidian&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/Codex_CLI-000000?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+
+**AI Lokal & Infrastruktur**
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![9router](https://img.shields.io/badge/9router-8B5CF6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBvbHlsaW5lIHBvaW50cz0iMjIgMTIgMTggMTIgMTUgMjEgOSAzIDYgMTIgMiAxMiI+PC9wb2x5bGluZT48L3N2Zz4&logoColor=white)
+![Local LLM](https://img.shields.io/badge/Local_LLM-FF6F00?style=flat-square&logo=robot&logoColor=white)
 
 **Cyber Security**
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-000000?style=flat-square&logo=python&logoColor=white)
 ![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=flat-square&logo=python&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=python&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=flat-square&logo=python&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=flat-square&logo=python&logoColor=white)
 
 **Database & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**OS & Environment**
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-17A2B8?style=flat-square&logo=linux&logoColor=white)
+![Fish Shell](https://img.shields.io/badge/Fish_Shell-34C534?style=flat-square&logo=fish&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 
 </div>
 
