@@ -61,7 +61,6 @@ Memiliki ketertarikan kuat pada eksplorasi visual — meliputi pemodelan 3D (Ble
 | [**Projek-SCPK**](https://github.com/Abhiprayaa29/Projek-SCPK) | Python, Jupyter, Streamlit | Sistem Pendukung Keputusan: AHP, SAW, Weighted Product & Fuzzy Logic |
 | [**ProjectPemogramanWeb-Abdillah-Abhi**](https://github.com/Abhiprayaa29/ProjectPemogramanWeb-Abdillah-Abhi) | PHP, HTML, CSS, JS | Proyek pemrograman web — CRUD, authentication, database integration |
 
-> 🔬 **sqli-research** dan **WifiPentest** adalah proyek riset keamanan siber mandiri sebagai bentuk eksplorasi di luar kurikulum perkuliahan.
 
 ---
 
