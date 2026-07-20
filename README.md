@@ -73,7 +73,6 @@ Berpengalaman dalam merancang wireframe & prototype aplikasi sebagai Asisten Dos
 
 **OS & Environment**
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![CachyOS](https://img.shields.io/badge/CachyOS-17A2B8?style=flat-square&logo=linux&logoColor=white)
 ![Fish Shell](https://img.shields.io/badge/Fish_Shell-34C534?style=flat-square&logo=fish&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
