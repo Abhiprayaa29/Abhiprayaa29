@@ -2,7 +2,7 @@
 
 # Abdillah Abhipraya Abrar
 
-**Kreator Visual & 3D · UI/UX Designer · Mahasiswa Teknik Informatika**
+**UI/UX Designer · Mahasiswa Teknik Informatika · AI Agent Enthusiast**
 
 📍 Yogyakarta, Indonesia &nbsp;·&nbsp; ✉️ abdillahabhi12@gmail.com &nbsp;·&nbsp; 📷 [@Abdabhhii_](https://instagram.com/Abdabhhii_)
 
@@ -15,9 +15,11 @@
 
 ## Ringkasan Profesional
 
-Mahasiswa Teknik Informatika Semester 4 di UPN "Veteran" Yogyakarta yang berfokus pada pengembangan perangkat lunak (Python, PHP, JavaScript) dan perancangan pengalaman pengguna (UI/UX) menggunakan Figma. Terbiasa menerjemahkan kebutuhan sistem menjadi wireframe dan prototype yang intuitif dan terstandarisasi.
+Mahasiswa Teknik Informatika Semester 4 di **UPN "Veteran" Yogyakarta** dengan fokus pada pengembangan perangkat lunak, perancangan UI/UX (Figma), serta eksplorasi AI agent orchestration dan keamanan siber.
 
-Memiliki ketertarikan kuat pada eksplorasi visual — meliputi pemodelan 3D (Blender, Sketchup) dan produksi video profesional (After Effects) — sebagai pelengkap kemampuan teknis dalam membangun produk digital yang fungsional sekaligus estetis. Finalist & Best Video Awardee — Find IT! UGM 2026, kompetisi UX Design tingkat nasional.
+Berpengalaman dalam merancang wireframe & prototype aplikasi sebagai Asisten Dosen riset, mengelola AI coding agent (OpenCode) untuk otomatisasi workflow, melakukan audit keamanan sistem secara menyeluruh, serta mengelola infrastruktur repositori GitHub. Didukung kemampuan visual 3D (Blender, Sketchup) dan motion (After Effects) sebagai pelengkap dalam membangun produk digital yang fungsional sekaligus estetis.
+
+**Finalist & Best Video Awardee** — Find IT! UGM 2026, kompetisi UX Design tingkat nasional.
 
 ---
 
@@ -26,26 +28,38 @@ Memiliki ketertarikan kuat pada eksplorasi visual — meliputi pemodelan 3D (Ble
 <div align="center">
 
 **Bahasa Pemrograman**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**UI/UX & Desain Kreatif**
+**UI/UX & Desain**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
-**Video, 3D & Motion**
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
 ![Sketchup](https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+**AI Agent & Automation**
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=obsidian&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+
+**Cyber Security**
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nm ap&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-000000?style=flat-square&logo=python&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=flat-square&logo=python&logoColor=white)
+
+**Database & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -62,6 +76,21 @@ Memiliki ketertarikan kuat pada eksplorasi visual — meliputi pemodelan 3D (Ble
 | [**ProjectPemogramanWeb-Abdillah-Abhi**](https://github.com/Abhiprayaa29/ProjectPemogramanWeb-Abdillah-Abhi) | PHP, HTML, CSS, JS | Proyek pemrograman web — CRUD, authentication, database integration |
 
 > 🔬 **sqli-research** dan **WifiPentest** adalah proyek riset keamanan siber mandiri sebagai bentuk eksplorasi di luar kurikulum perkuliahan.
+
+---
+
+## OpenCode Projects
+
+Berikut adalah proyek dan konfigurasi yang dikerjakan menggunakan AI coding agent (OpenCode) untuk otomatisasi workflow perkuliahan dan pengembangan:
+
+| Proyek | Detail |
+|--------|--------|
+| **🔧 Environment Setup** | Konfigurasi VS Code all-rounder: 41 extensions, settings.json optimal, formatter/linter otomatis |
+| **🔐 System Security Audit** | Audit menyeluruh: 13 temuan keamanan (732 pending update, API key exposure, MySQL bind 0.0.0.0) |
+| **📁 Repository Management** | Organisasi 12 repositori GitHub — archive + private, pembersihan storage ~11 GB |
+| **🧠 Codebase Intelligence** | Instalasi & konfigurasi codebase-memory-mcp (MCP server, auto-index, knowledge graph) |
+| **📂 Academic Workspace** | Struktur folder kuliah 108 direktori per semester, organisasi 391 file akademik |
+| **📊 System Audit Report** | Laporan audit untuk 10 kategori (toolchain, VS Code, pentest readiness, backup, dll) |
 
 ---
 
@@ -93,11 +122,11 @@ Memiliki ketertarikan kuat pada eksplorasi visual — meliputi pemodelan 3D (Ble
 
 | # | Repo | Bahasa | Fokus |
 |---|------|--------|-------|
-| 1 | [**Cerberus**](https://github.com/Abhiprayaa29/Cerberus) | TypeScript | AI Agent Platform \\
-| 2 | [**Projek-SCPK**](https://github.com/Abhiprayaa29/Projek-SCPK) | Python, Jupyter | Decision Support System \\
+| 1 | [**Cerberus**](https://github.com/Abhiprayaa29/Cerberus) | TypeScript | AI Agent Platform |
+| 2 | [**Projek-SCPK**](https://github.com/Abhiprayaa29/Projek-SCPK) | Python, Jupyter | Decision Support System |
 | 3 | [**sqli-research**](https://github.com/Abhiprayaa29/sqli-research) | Python, PHP | **Cybersecurity** — SQLi PoC + Mitigasi |
 | 4 | [**WifiPentest**](https://github.com/Abhiprayaa29/WifiPentest) | — | **Cybersecurity** — WiFi Security Testing |
-| 5 | [**ProjectPemogramanWeb-Abdillah-Abhi**](https://github.com/Abhiprayaa29/ProjectPemogramanWeb-Abdillah-Abhi) | PHP | Web Development \\
+| 5 | [**ProjectPemogramanWeb-Abdillah-Abhi**](https://github.com/Abhiprayaa29/ProjectPemogramanWeb-Abdillah-Abhi) | PHP | Web Development |
 
 ---
 
@@ -125,7 +154,7 @@ Sekolah Menengah Atas (IPA) — SMAN 1 Kutowinangun *(2021 – 2024)*
 
 <div align="center">
 
-*Terbuka untuk kolaborasi di bidang UI/UX design, produksi visual, dan pengembangan web.*
+*Terbuka untuk kolaborasi di bidang UI/UX design, AI agent development, pengembangan web, dan keamanan siber.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhiprayaa29&color=4C6EF5&style=flat-square&label=Profile+Views)
 
