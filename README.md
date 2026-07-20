@@ -15,9 +15,9 @@
 
 ## Ringkasan Profesional
 
-Mahasiswa Teknik Informatika Semester 4 di **UPN "Veteran" Yogyakarta** dengan rekam jejak kepemimpinan terukur dalam manajemen tim kreatif lintas event — memimpin tim PDD hingga 9 anggota, merancang strategi publikasi visual end-to-end, dan mengelola ribuan aset foto & video.
+Mahasiswa Teknik Informatika Semester 4 di UPN "Veteran" Yogyakarta yang berfokus pada pengembangan perangkat lunak (Python, PHP, JavaScript) dan perancangan pengalaman pengguna (UI/UX) menggunakan Figma. Terbiasa menerjemahkan kebutuhan sistem menjadi wireframe dan prototype yang intuitif dan terstandarisasi.
 
-Kompeten di bidang pengembangan perangkat lunak (Python, PHP, JavaScript), desain UI/UX (Figma), pemodelan 3D (Blender, Sketchup), dan produksi video profesional (After Effects). **Finalist & Best Video Awardee** — Find IT! UGM 2026.
+Memiliki ketertarikan kuat pada eksplorasi visual — meliputi pemodelan 3D (Blender, Sketchup) dan produksi video profesional (After Effects) — sebagai pelengkap kemampuan teknis dalam membangun produk digital yang fungsional sekaligus estetis. Finalist & Best Video Awardee — Find IT! UGM 2026, kompetisi UX Design tingkat nasional.
 
 ---
 
