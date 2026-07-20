@@ -61,6 +61,7 @@ Memiliki ketertarikan kuat pada eksplorasi visual — meliputi pemodelan 3D (Ble
 | [**Projek-SCPK**](https://github.com/Abhiprayaa29/Projek-SCPK) | Python, Jupyter, Streamlit | Sistem Pendukung Keputusan: AHP, SAW, Weighted Product & Fuzzy Logic |
 | [**ProjectPemogramanWeb-Abdillah-Abhi**](https://github.com/Abhiprayaa29/ProjectPemogramanWeb-Abdillah-Abhi) | PHP, HTML, CSS, JS | Proyek pemrograman web — CRUD, authentication, database integration |
 
+> 🔬 **sqli-research** dan **WifiPentest** adalah proyek riset keamanan siber mandiri sebagai bentuk eksplorasi di luar kurikulum perkuliahan.
 
 ---
 
@@ -101,8 +102,12 @@ Memiliki ketertarikan kuat pada eksplorasi visual — meliputi pemodelan 3D (Ble
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abhiprayaa29&show_icons=true&theme=default&hide_border=true&title_color=4C6EF5&icon_color=4C6EF5"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiprayaa29&layout=compact&theme=default&hide_border=true&title_color=4C6EF5"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abhiprayaa29&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=4C6EF5&icon_color=4C6EF5&text_color=333333&border_radius=8"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiprayaa29&layout=compact&theme=transparent&hide_border=true&title_color=4C6EF5&text_color=333333&border_radius=8"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abhiprayaa29&theme=transparent&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&currStreakLabel=4C6EF5&ring=4C6EF5&fire=4C6EF5&currStreakNum=333333&sideNums=333333)](https://git.io/streak-stats)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Abhiprayaa29&theme=github-light&hide_border=true&radius=8&area=true&point=4C6EF5&color=4C6EF5&line=4C6EF5&bg_color=transparent)
 
 </div>
 
