@@ -1,82 +1,101 @@
 <div align="center">
 
-```
-root@Abhiprayaa29:~$ whoami
-```
+# Abdillah Abhipraya Abrar
 
-# Abhiprayaa29
+**Kreator Visual & 3D · UI/UX Designer · Mahasiswa Teknik Informatika**
 
-**Informatics Engineering Student — Cybersecurity & Software Development**
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=00FF9C&center=true&vCenter=true&width=600&lines=Penetration+Testing+%26+Network+Security;Web+Application+Security+Research;Java+%2F+Python+Software+Development;Currently+building+Eye-AI)
+📍 Yogyakarta, Indonesia &nbsp;·&nbsp; ✉️ abdillahabhi12@gmail.com &nbsp;·&nbsp; 📷 [@Abdabhhii_](https://instagram.com/Abdabhhii_)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Abhiprayaa29-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhiprayaa29)
-&nbsp;
-![Status](https://img.shields.io/badge/Status-Open_to_Collaboration-00FF9C?style=flat-square&labelColor=0D1117)
+![Status](https://img.shields.io/badge/Status-Open_to_Collaboration-4C6EF5?style=flat-square&labelColor=1a1a1a)
 
 </div>
 
 ---
 
-## About
+## Ringkasan Profesional
 
-Mahasiswa S1 Teknik Informatika di **Universitas Pembangunan Nasional "Veteran" Yogyakarta**, dengan minat utama pada **cybersecurity** — khususnya penetration testing, analisis protokol jaringan, dan keamanan aplikasi web. Aktif berpartisipasi dalam tantangan **Capture-The-Flag (CTF)** untuk mengasah kemampuan offensive security secara praktis.
+Mahasiswa Teknik Informatika Semester 4 di **UPN "Veteran" Yogyakarta** dengan rekam jejak kepemimpinan terukur dalam manajemen tim kreatif lintas event — memimpin tim PDD hingga 9 anggota, merancang strategi publikasi visual end-to-end, dan mengelola ribuan aset foto & video.
 
-Di luar keamanan siber, saya mengembangkan software menggunakan **Java** dan **Python**, dengan ketertarikan khusus pada struktur data dan pemrograman multithreading. Saat ini saya sedang mengerjakan proyek **Eye-AI** dan riset **PKM-K**.
+Kompeten di bidang pengembangan perangkat lunak (Python, PHP, JavaScript), desain UI/UX (Figma), pemodelan 3D (Blender, Sketchup), dan produksi video profesional (After Effects). **Finalist & Best Video Awardee** — Find IT! UGM 2026.
 
 ---
 
-## Cybersecurity Focus
-
-| Area | Deskripsi |
-|---|---|
-| **Penetration Testing** | Reconnaissance, exploitation, privilege escalation |
-| **Network Protocol Analysis** | Analisis traffic & inspeksi paket jaringan |
-| **Web Application Security** | OWASP Top 10 — SQLi, XSS, IDOR, broken auth |
-| **CTF Competitions** | Web, Pwn, Forensics, dan Cryptography |
+## Keahlian Teknis
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0D1117)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white&labelColor=0D1117)
-![CachyOS](https://img.shields.io/badge/CachyOS-00FF9C?style=flat-square&logo=archlinux&logoColor=black&labelColor=0D1117)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white&labelColor=0D1117)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=0D1117)
+**Bahasa Pemrograman**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**UI/UX & Desain Kreatif**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+**Video, 3D & Motion**
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Sketchup](https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white)
 
 </div>
 
 ---
 
-## Software Development
+## Pengalaman & Kepemimpinan
 
-Fokus pengembangan pada eksplorasi struktur data secara mendalam serta implementasi multithreading untuk pemrograman yang efisien dan concurrent.
+| Peran | Organisasi | Periode |
+|---|---|---|
+| Asisten Dosen — Riset Aplikasi Manajemen Keuangan | UPN "Veteran" Yogyakarta | Mei 2026 – Sekarang |
+| Wakil Kepala Departemen Media & Informasi | BKM Kebumen (KBMK) | Sep 2025 – Sekarang |
+| Koordinator PDD (9 anggota) | Kebumen Campus Festival 2026 | Okt 2025 – Jan 2026 |
+| Koordinator PDD (4 anggota) | SMANSAKU Campus Expo | Okt 2025 – Jan 2026 |
+| Volunteer Fotografer & Desainer Grafis | Jessup International Law Moot Court, UGM | Feb 2026 |
+| Staff PDD | Veternity Informatika, HMTI UPN | Jul – Sep 2025 |
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white&labelColor=0D1117)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
-
-</div>
-
-**Proyek yang sedang berjalan:**
-- **Eye-AI** — proyek berbasis kecerdasan buatan (dalam pengembangan)
-- **PKM-K** — riset & inovasi kewirausahaan mahasiswa
+> Sebagai Asisten Dosen, saya berkontribusi dalam analisis kebutuhan sistem serta merancang wireframe & prototype UI/UX di Figma untuk memastikan pengalaman pengguna yang intuitif dan terstandarisasi.
 
 ---
 
-## Creative Work
+## Penghargaan
 
-Sebagai keseimbangan dari pekerjaan teknis, saya juga aktif dalam bidang kreatif visual:
+- 🏆 **Finalist & Best Video Awardee** — Find IT! UGM 2026 (KMTETI, Fakultas Teknik UGM), kompetisi UX Design tingkat nasional
 
-- **Street Photography** — pengambilan gambar dengan DSLR, fokus pada narasi visual urban
-- **Color Grading** — post-processing untuk membangun mood dan konsistensi visual
-- **3D Structural Design** — pemodelan di Blender dengan fokus pada custom shading nodes
+---
+
+## Featured Repositories
 
 <div align="center">
 
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white&labelColor=0D1117)
+<a href="https://github.com/Abhiprayaa29/sqli-research">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiprayaa29&repo=sqli-research&theme=default&hide_border=true" />
+</a>
+<a href="https://github.com/Abhiprayaa29/WifiPentest">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiprayaa29&repo=WifiPentest&theme=default&hide_border=true" />
+</a>
+<br/>
+<a href="https://github.com/Abhiprayaa29/Cerberus">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiprayaa29&repo=Cerberus&theme=default&hide_border=true" />
+</a>
+<a href="https://github.com/Abhiprayaa29/ProjectPemogramanWeb-Abdillah-Abhi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiprayaa29&repo=ProjectPemogramanWeb-Abdillah-Abhi&theme=default&hide_border=true" />
+</a>
 
 </div>
+
+- **sqli-research** — Riset keamanan: proof of concept eksploitasi Time-Based Blind SQLi lengkap dengan sistem verifikasi ganda dan contoh mitigasi menggunakan PDO *(Python)*
+- **WifiPentest** — Eksperimen pengujian keamanan jaringan Wi-Fi
+- **Cerberus** — Proyek berbasis TypeScript
+- **ProjectPemogramanWeb-Abdillah-Abhi** — Proyek pemrograman web *(PHP)*
 
 ---
 
@@ -84,23 +103,24 @@ Sebagai keseimbangan dari pekerjaan teknis, saya juga aktif dalam bidang kreatif
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abhiprayaa29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiprayaa29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiprayaa29&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=58a6ff&currStreakLabel=00FF9C"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abhiprayaa29&show_icons=true&theme=default&hide_border=true&title_color=4C6EF5&icon_color=4C6EF5"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiprayaa29&layout=compact&theme=default&hide_border=true&title_color=4C6EF5"/>
 
 </div>
 
 ---
 
-## Contact
+## Pendidikan
+
+**S1 Teknik Informatika** — UPN "Veteran" Yogyakarta *(2024 – Sekarang)*
+Sekolah Menengah Atas (IPA) — SMAN 1 Kutowinangun *(2021 – 2024)*
+
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Abhiprayaa29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhiprayaa29)
+*Terbuka untuk kolaborasi di bidang UI/UX design, produksi visual, dan pengembangan web.*
 
-*Open to collaboration on security research, CTF teams, and open-source projects.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abhiprayaa29&color=00FF9C&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Abhiprayaa29&color=4C6EF5&style=flat-square&label=Profile+Views)
 
 </div>
