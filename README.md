@@ -56,6 +56,15 @@ Berpengalaman dalam merancang wireframe & prototype aplikasi sebagai Asisten Dos
 ![9router](https://img.shields.io/badge/9router-8B5CF6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBvbHlsaW5lIHBvaW50cz0iMjIgMTIgMTggMTIgMTUgMjEgOSAzIDYgMTIgMiAxMiI+PC9wb2x5bGluZT48L3N2Zz4&logoColor=white)
 ![Local LLM](https://img.shields.io/badge/Local_LLM-FF6F00?style=flat-square&logo=robot&logoColor=white)
 
+**AI Agent Ecosystem**
+![Cerberus](https://img.shields.io/badge/Cerberus-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIj48L2NpcmNsZT48cGF0aCBkPSJNMTIgNiB2MTIiPjwvcGF0aD48cGF0aCBkPSJNNiAxMiBoMTIiPjwvcGF0aD48L3N2Zz4&logoColor=white)
+![Sub-agents](https://img.shields.io/badge/Sub_Agents-6C5CE7?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjUiIGN5PSI2IiByPSIzIj48L2NpcmNsZT48Y2lyY2xlIGN4PSIxOSIgY3k9IjYiIHI9IjMiPjwvY2lyY2xlPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTgiIHI9IjMiPjwvY2lyY2xlPjxsaW5lIHgxPSI1IiB5MT0iOSIgeDI9IjEyIiB5Mj0iMTUiPjwvbGluZT48bGluZSB4MT0iMTkiIHkxPSI5IiB4Mj0iMTIiIHkyPSIxNSI+PC9saW5lPjwvc3ZnPg==&logoColor=white)
+
+**Sub-agents:**  
+Cerberus (orchestrator) · Scout (code search) · Intel (external research)  
+Cipher (reasoning & architecture) · Vanguard (pre-planning)  
+Sentinel (quality gate) · Talos (planner) · Lens (media analysis)
+
 **Cyber Security**
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-000000?style=flat-square&logo=python&logoColor=white)
