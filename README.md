@@ -51,18 +51,17 @@ Kompeten di bidang pengembangan perangkat lunak (Python, PHP, JavaScript), desai
 
 ---
 
-## Pengalaman & Kepemimpinan
+## Proyek Publik
 
-| Peran | Organisasi | Periode |
+| Proyek | Teknologi | Deskripsi |
 |---|---|---|
-| Asisten Dosen — Riset Aplikasi Manajemen Keuangan | UPN "Veteran" Yogyakarta | Mei 2026 – Sekarang |
-| Wakil Kepala Departemen Media & Informasi | BKM Kebumen (KBMK) | Sep 2025 – Sekarang |
-| Koordinator PDD (9 anggota) | Kebumen Campus Festival 2026 | Okt 2025 – Jan 2026 |
-| Koordinator PDD (4 anggota) | SMANSAKU Campus Expo | Okt 2025 – Jan 2026 |
-| Volunteer Fotografer & Desainer Grafis | Jessup International Law Moot Court, UGM | Feb 2026 |
-| Staff PDD | Veternity Informatika, HMTI UPN | Jul – Sep 2025 |
+| [**Cerberus**](https://github.com/Abhiprayaa29/Cerberus) | TypeScript | Platform AI Agent — integrasi OpenCode untuk otomatisasi & keamanan siber |
+| [**sqli-research**](https://github.com/Abhiprayaa29/sqli-research) | Python, PHP, MySQL | Riset keamanan: PoC Time-Based Blind SQLi + mitigasi PDO — **portofolio keamanan** |
+| [**WifiPentest**](https://github.com/Abhiprayaa29/WifiPentest) | — | Eksperimen pengujian keamanan jaringan Wi-Fi — **portofolio keamanan** |
+| [**Projek-SCPK**](https://github.com/Abhiprayaa29/Projek-SCPK) | Python, Jupyter, Streamlit | Sistem Pendukung Keputusan: AHP, SAW, Weighted Product & Fuzzy Logic |
+| [**ProjectPemogramanWeb-Abdillah-Abhi**](https://github.com/Abhiprayaa29/ProjectPemogramanWeb-Abdillah-Abhi) | PHP, HTML, CSS, JS | Proyek pemrograman web — CRUD, authentication, database integration |
 
-> Sebagai Asisten Dosen, saya berkontribusi dalam analisis kebutuhan sistem serta merancang wireframe & prototype UI/UX di Figma untuk memastikan pengalaman pengguna yang intuitif dan terstandarisasi.
+> 🔬 **sqli-research** dan **WifiPentest** adalah proyek riset keamanan siber mandiri sebagai bentuk eksplorasi di luar kurikulum perkuliahan.
 
 ---
 
