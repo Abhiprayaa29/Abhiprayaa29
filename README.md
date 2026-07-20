@@ -75,26 +75,29 @@ Memiliki ketertarikan kuat pada eksplorasi visual — meliputi pemodelan 3D (Ble
 
 <div align="center">
 
-<a href="https://github.com/Abhiprayaa29/sqli-research">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiprayaa29&repo=sqli-research&theme=default&hide_border=true" />
+<a href="https://github.com/Abhiprayaa29/Cerberus">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiprayaa29&repo=Cerberus&theme=transparent&hide_border=true&title_color=4C6EF5&icon_color=4C6EF5&text_color=333333&border_radius=8&description_lines=1" />
 </a>
-<a href="https://github.com/Abhiprayaa29/WifiPentest">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiprayaa29&repo=WifiPentest&theme=default&hide_border=true" />
+<a href="https://github.com/Abhiprayaa29/Projek-SCPK">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiprayaa29&repo=Projek-SCPK&theme=transparent&hide_border=true&title_color=4C6EF5&icon_color=4C6EF5&text_color=333333&border_radius=8&description_lines=1" />
 </a>
 <br/>
-<a href="https://github.com/Abhiprayaa29/Cerberus">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiprayaa29&repo=Cerberus&theme=default&hide_border=true" />
+<a href="https://github.com/Abhiprayaa29/sqli-research">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiprayaa29&repo=sqli-research&theme=transparent&hide_border=true&title_color=4C6EF5&icon_color=4C6EF5&text_color=333333&border_radius=8&description_lines=2" />
 </a>
-<a href="https://github.com/Abhiprayaa29/ProjectPemogramanWeb-Abdillah-Abhi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiprayaa29&repo=ProjectPemogramanWeb-Abdillah-Abhi&theme=default&hide_border=true" />
+<a href="https://github.com/Abhiprayaa29/WifiPentest">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiprayaa29&repo=WifiPentest&theme=transparent&hide_border=true&title_color=4C6EF5&icon_color=4C6EF5&text_color=333333&border_radius=8&description_lines=2" />
 </a>
 
 </div>
 
-- **sqli-research** — Riset keamanan: proof of concept eksploitasi Time-Based Blind SQLi lengkap dengan sistem verifikasi ganda dan contoh mitigasi menggunakan PDO *(Python)*
-- **WifiPentest** — Eksperimen pengujian keamanan jaringan Wi-Fi
-- **Cerberus** — Proyek berbasis TypeScript
-- **ProjectPemogramanWeb-Abdillah-Abhi** — Proyek pemrograman web *(PHP)*
+| # | Repo | Bahasa | Fokus |
+|---|------|--------|-------|
+| 1 | [**Cerberus**](https://github.com/Abhiprayaa29/Cerberus) | TypeScript | AI Agent Platform \\
+| 2 | [**Projek-SCPK**](https://github.com/Abhiprayaa29/Projek-SCPK) | Python, Jupyter | Decision Support System \\
+| 3 | [**sqli-research**](https://github.com/Abhiprayaa29/sqli-research) | Python, PHP | **Cybersecurity** — SQLi PoC + Mitigasi |
+| 4 | [**WifiPentest**](https://github.com/Abhiprayaa29/WifiPentest) | — | **Cybersecurity** — WiFi Security Testing |
+| 5 | [**ProjectPemogramanWeb-Abdillah-Abhi**](https://github.com/Abhiprayaa29/ProjectPemogramanWeb-Abdillah-Abhi) | PHP | Web Development \\
 
 ---
 
