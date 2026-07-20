@@ -1,158 +1,106 @@
 <div align="center">
 
 ```
-┌──(root㉿Abhiprayaa29)-[~/portfolio]
-└─$ whoami --verbose
+root@Abhiprayaa29:~$ whoami
 ```
 
-# ██▓ Abhiprayaa29 ▓██
-### `[ CyberSec Enthusiast | Pentester-in-Training | Full-Stack Tinkerer ]`
+# Abhiprayaa29
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Mahasiswa+S1+Teknik+Informatika;Penetration+Testing+%26+CTF+Player;Linux+%2F%2F+Java+%2F%2F+Python;Building+Eye-AI...)
+**Informatics Engineering Student — Cybersecurity & Software Development**
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=00FF9C&center=true&vCenter=true&width=600&lines=Penetration+Testing+%26+Network+Security;Web+Application+Security+Research;Java+%2F+Python+Software+Development;Currently+building+Eye-AI)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Abhiprayaa29-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhiprayaa29)
+&nbsp;
+![Status](https://img.shields.io/badge/Status-Open_to_Collaboration-00FF9C?style=flat-square&labelColor=0D1117)
 
 </div>
 
 ---
 
-## `[0x00]` System Identity
+## About
 
-```bash
-$ cat identity.txt
-```
+Mahasiswa S1 Teknik Informatika di **Universitas Pembangunan Nasional "Veteran" Yogyakarta**, dengan minat utama pada **cybersecurity** — khususnya penetration testing, analisis protokol jaringan, dan keamanan aplikasi web. Aktif berpartisipasi dalam tantangan **Capture-The-Flag (CTF)** untuk mengasah kemampuan offensive security secara praktis.
 
-> **Nama** : Abhiprayaa29
-> **Institusi** : Universitas Pembangunan Nasional "Veteran" Yogyakarta
-> **Program Studi** : S1 Teknik Informatika
-> **Role** : Cybersecurity Enthusiast / Ethical Hacker (in progress) / Developer
-> **Status** : `ONLINE` — sedang deep-dive ke penetration testing & network protocol analysis
-
-```bash
-$ echo "connection secured..."
-[OK] Handshake complete. Access granted.
-```
+Di luar keamanan siber, saya mengembangkan software menggunakan **Java** dan **Python**, dengan ketertarikan khusus pada struktur data dan pemrograman multithreading. Saat ini saya sedang mengerjakan proyek **Eye-AI** dan riset **PKM-K**.
 
 ---
 
-## `[0x01]` Cybersecurity Focus
+## Cybersecurity Focus
 
-```
-[+] Scanning skillset...
-[+] Target acquired: Offensive Security Domain
-```
-
-- 🔓 **Penetration Testing** — reconnaissance, exploitation, privilege escalation
-- 🌐 **Network Protocol Analysis** — packet inspection, traffic analysis (Wireshark, tcpdump)
-- 🕸️ **Web Security** — OWASP Top 10, SQLi, XSS, IDOR, auth bypass
-- 🚩 **CTF Player** — aktif mengerjakan challenge di berbagai kategori (Web, Pwn, Forensics, Crypto)
+| Area | Deskripsi |
+|---|---|
+| **Penetration Testing** | Reconnaissance, exploitation, privilege escalation |
+| **Network Protocol Analysis** | Analisis traffic & inspeksi paket jaringan |
+| **Web Application Security** | OWASP Top 10 — SQLi, XSS, IDOR, broken auth |
+| **CTF Competitions** | Web, Pwn, Forensics, dan Cryptography |
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/OS-Linux-00FF41?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=00FF41&labelColor=0D1117)
-![CachyOS](https://img.shields.io/badge/CachyOS-Performance-00FF41?style=for-the-badge&logo=archlinux&logoColor=00FF41&labelColor=0D1117)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=00FF41&labelColor=0D1117)
-![Kali](https://img.shields.io/badge/Terminal-Native-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00FF41&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0D1117)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white&labelColor=0D1117)
+![CachyOS](https://img.shields.io/badge/CachyOS-00FF9C?style=flat-square&logo=archlinux&logoColor=black&labelColor=0D1117)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white&labelColor=0D1117)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=0D1117)
 
 </div>
 
 ---
 
-## `[0x02]` Software Development
+## Software Development
 
-```python
-class Developer:
-    def __init__(self):
-        self.languages = ["Java", "Python"]
-        self.focus = ["Data Structures", "Multithreading", "Concurrency"]
-        self.mindset = "clean logic > flashy syntax"
-
-    def build(self):
-        return "Eye-AI 🧠 + PKM-K Research 🔬"
-```
+Fokus pengembangan pada eksplorasi struktur data secara mendalam serta implementasi multithreading untuk pemrograman yang efisien dan concurrent.
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=00FF41&labelColor=0D1117)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=0D1117)
-![DataStructures](https://img.shields.io/badge/Data_Structures-Algorithms-00FFFF?style=for-the-badge&logo=leetcode&logoColor=00FFFF&labelColor=0D1117)
-![Multithreading](https://img.shields.io/badge/Multithreading-Concurrency-00FFFF?style=for-the-badge&logo=cachet&logoColor=00FFFF&labelColor=0D1117)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
 
 </div>
 
-> **Proyek Aktif:**
-> - 🧠 `Eye-AI` — proyek AI yang sedang dalam tahap pengembangan
-> - 🔬 `PKM-K` — riset & inovasi kewirausahaan mahasiswa
+**Proyek yang sedang berjalan:**
+- **Eye-AI** — proyek berbasis kecerdasan buatan (dalam pengembangan)
+- **PKM-K** — riset & inovasi kewirausahaan mahasiswa
 
 ---
 
-## `[0x03]` Creative Layer — `sudo switch --mode=creative`
+## Creative Work
 
-```
-[!] Balancing binary logic with visual art...
-```
+Sebagai keseimbangan dari pekerjaan teknis, saya juga aktif dalam bidang kreatif visual:
 
-Selain dunia teknis, saya juga aktif mengeksplorasi sisi kreatif sebagai *counterbalance* dari pekerjaan teknikal:
-
-- 📷 **Street Photography** — DSLR, human-centric urban storytelling
-- 🎨 **Color Grading** — post-processing untuk membangun mood & narasi visual
-- 🧊 **3D Structural Design** — Blender, dengan fokus pada *custom shading nodes*
+- **Street Photography** — pengambilan gambar dengan DSLR, fokus pada narasi visual urban
+- **Color Grading** — post-processing untuk membangun mood dan konsistensi visual
+- **3D Structural Design** — pemodelan di Blender dengan fokus pada custom shading nodes
 
 <div align="center">
 
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=00FF41&labelColor=0D1117)
-![Photography](https://img.shields.io/badge/Photography-DSLR-8A2BE2?style=for-the-badge&logo=googlephotos&logoColor=8A2BE2&labelColor=0D1117)
-![ColorGrading](https://img.shields.io/badge/Color_Grading-Post_Processing-8A2BE2?style=for-the-badge&logo=adobelightroom&logoColor=8A2BE2&labelColor=0D1117)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white&labelColor=0D1117)
 
 </div>
 
 ---
 
-## `[0x04]` System Metrics
-
-```bash
-$ ./fetch_stats.sh --theme=tokyonight
-```
+## GitHub Statistics
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abhiprayaa29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&text_color=c9d1d9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiprayaa29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abhiprayaa29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=58a6ff&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiprayaa29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiprayaa29&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FFFF&currStreakLabel=00FF41"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiprayaa29&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=58a6ff&currStreakLabel=00FF9C"/>
 
 </div>
 
 ---
 
-## `[0x05]` Connect / Handshake
-
-```bash
-$ cat contact.json
-```
-
-```json
-{
-  "github": "https://github.com/Abhiprayaa29",
-  "status": "open_to_collab",
-  "interests": ["CTF teams", "security research", "open source"]
-}
-```
+## Contact
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/GitHub-Abhiprayaa29-181717?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117)
+[![GitHub](https://img.shields.io/badge/GitHub-Abhiprayaa29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhiprayaa29)
 
-</div>
+*Open to collaboration on security research, CTF teams, and open-source projects.*
 
----
-
-<div align="center">
-
-```
-[EOF] Connection closed by remote host.
-Thanks for stopping by. Stay curious, stay secure. 🔐
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abhiprayaa29&color=00FF41&style=flat-square&label=TERMINAL+VISITS)
+![Profile Views](https://komarev.com/ghpvc/?username=Abhiprayaa29&color=00FF9C&style=flat-square&label=Profile+Views)
 
 </div>
