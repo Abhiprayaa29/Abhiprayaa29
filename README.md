@@ -23,25 +23,58 @@ Finalis dan peraih Best Video Award pada kompetisi UX Design nasional Find IT! U
 ## Keahlian Teknis
 
 **Bahasa Pemrograman**
-Python · PHP · JavaScript · TypeScript · Java · C++ · HTML5 · CSS3
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **UI/UX & Desain**
-Figma · Photoshop · Blender · After Effects · SketchUp · Unity
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+![Sketchup](https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 **AI Agent & Automation**
-OpenCode · Claude Code · Codex CLI · Model Context Protocol (MCP)
+
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=obsidian&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/Codex_CLI-000000?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
 **AI Lokal & Infrastruktur**
-Ollama · 9router · Local LLM deployment
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Local LLM](https://img.shields.io/badge/Local_LLM-FF6F00?style=flat-square&logo=robot&logoColor=white)
 
 **Keamanan Siber**
-Nmap · SQLmap · Nuclei · Metasploit · Hydra · Hashcat
+
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-000000?style=flat-square&logo=python&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=flat-square&logo=python&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=python&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=flat-square&logo=python&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=flat-square&logo=python&logoColor=white)
 
 **Database & Tools**
-MySQL · SQLite · Docker · Git
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Sistem Operasi & Environment**
-Arch Linux · Fish Shell · VS Code · Neovim
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Fish Shell](https://img.shields.io/badge/Fish_Shell-34C534?style=flat-square&logo=fish&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
